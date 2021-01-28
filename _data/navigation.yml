@@ -4,6 +4,10 @@ main:
   - title: "API coisas"
     url: /docs/api/
 
+sidebar:
+  title: "Sidebar aqui"
+  nav: sidebar-sample
+
 sidebar-sample:
   - title: "intro"
     children:
