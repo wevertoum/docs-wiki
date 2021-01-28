@@ -1,0 +1,20 @@
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+plugins:
+  - jekyll-include-cache
+locale: "pt-BR"
+title: "Title site"
+name: "Weverton teste docs"
+description: "Aqui o site com minha doc e tals"
+logo: "https://www.flaticon.com/svg/vstatic/svg/2165/2165004.svg?token=exp=1611851225~hmac=18e7c9ff60edf0ea480f0e6cc2b959ad"
+
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/wetervon"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://web.facebook.com/wevertonfr/"
