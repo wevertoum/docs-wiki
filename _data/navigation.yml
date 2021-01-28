@@ -3,3 +3,13 @@ main:
     url: /docs/intro/
   - title: "API coisas"
     url: /docs/api/
+
+sidebar-sample:
+  - title: "intro"
+    children:
+      - title: "aq a pagina da intro"
+        url: /docs/intro/
+  - title: "API"
+    children:
+      - title: "aq a pagina da api"
+        url: /docs/api/
